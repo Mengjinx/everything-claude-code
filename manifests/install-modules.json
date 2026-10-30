@@ -215,6 +215,7 @@
         "skills/skill-stocktake",
         "skills/strategic-compact",
         "skills/tdd-workflow",
+        "skills/test-collaboration",
         "skills/verification-loop"
       ],
       "targets": [
@@ -237,6 +238,7 @@
       "kind": "skills",
       "description": "Security review and security-focused framework guidance.",
       "paths": [
+        "skills/assessment-evidence",
         "skills/defi-amm-security",
         "skills/django-security",
         "skills/healthcare-phi-compliance",

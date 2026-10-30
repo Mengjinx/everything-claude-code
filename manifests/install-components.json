@@ -380,6 +380,18 @@
       ]
     },
     {
+      "id": "skill:test-collaboration",
+      "family": "skill",
+      "description": "Stable test IDs and executable evidence for requirements, risks, and findings.",
+      "modules": ["workflow-quality"]
+    },
+    {
+      "id": "skill:assessment-evidence",
+      "family": "skill",
+      "description": "Security finding validation, IRIS PoC records, and sanitized assessment handoffs.",
+      "modules": ["security"]
+    },
+    {
       "id": "skill:strategic-compact",
       "family": "skill",
       "description": "Strategic context compaction for long sessions.",
